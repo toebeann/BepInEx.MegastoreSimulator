@@ -113,7 +113,7 @@ Second, check [the FAQ](https://github.com/toebeann/BepInEx.MegastoreSimulator/w
 If not, you can use the following channels to ask for help:
 
 -   [Modded Megastore Simulator Discord](https://discord.gg/9KrRZx7akG)
--   [Nexus Mods posts tab](https://www.nexusmods.com/subnautica/mods/1108/?tab=posts)
+-   [Nexus Mods posts tab](https://www.nexusmods.com/megastoresimulator/mods/2/?tab=posts)
 -   [GitHub issues](https://github.com/toebeann/BepInEx.MegastoreSimulator/issues)
 
 ## Useful links for mod authors
