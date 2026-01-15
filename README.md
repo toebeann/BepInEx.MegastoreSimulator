@@ -108,7 +108,7 @@ If you can't figure out how to install a specific mod, make sure to double check
 
 First, please make sure to check that the answer you're looking for isn't already somewhere on this page. Use Ctrl+F to search for keywords.
 
-Second, check [the troubleshooting page of the wiki](https://github.com/toebeann/BepInEx.MegastoreSimulator/wiki/Troubleshooting) to see if there is a solution to your problem there.
+Second, check [the wiki](https://github.com/toebeann/BepInEx.MegastoreSimulator/wiki/Troubleshooting) to see if there is a solution to your problem there.
 
 If not, you can use the following channels to ask for help:
 
