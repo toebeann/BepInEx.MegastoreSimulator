@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "name": "Tobey's BepInEx Pack for Megastore Simulator",
+  "repo": "toebeann/bepinex.megastoresimulator",
+  "bepinex": "bepinex/bepinex",
+  "platforms": [
+    "win_x64"
+  ],
+  "sources": [
+    "toebeann/Tobey.FileTree",
+    "toebeann/Tobey.BepInEx.Timestamp",
+    "toebeann/Tobey.BepInEx.GameInfo"
+  ]
+}
