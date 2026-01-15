@@ -76,11 +76,7 @@ For Steam Deck handhelds, switch to Desktop mode to follow the instructions. Onc
 
 5. Run the game as normal.
 
-    Note that if you own the game on Steam, you should _always_ launch it with Steam - do not run the .exe file directly (nor via a shortcut to the .exe), as launching the .exe directly causes issues for BepInEx. You can set up a BepInEx-compatible shortcut on your desktop by right-clicking the game in Steam and selecting `Manage` > `Add desktop shortcut`.
-
-    The same may apply to other platforms, e.g. Epic Games Launcher, Microsoft Store, etc.
-
-    Launching the game with Vortex should be fine too.
+    Note that you should _always_ launch it with Steam - do not run the .exe file directly (nor via a shortcut to the .exe), as launching the .exe directly causes issues for BepInEx. You can set up a BepInEx-compatible shortcut on your desktop by right-clicking the game in Steam and selecting `Manage` > `Add desktop shortcut`.
 
 6. Exit the game at the main menu.
 
