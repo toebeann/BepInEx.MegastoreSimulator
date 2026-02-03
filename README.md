@@ -1,8 +1,8 @@
 ![BepInEx logo](assets/logo.png)
 
-# Tobey's BepInEx Pack for Megastore Simulator: Prologue
+# Tobey's BepInEx Pack for Megastore Simulator
 
-This is a [BepInEx](https://github.com/BepInEx/BepInEx) pack for Megastore Simulator: Prologue, preconfigured and ready to use on Windows and Linux, including SteamOS and Steam Deck handhelds!
+This is a [BepInEx](https://github.com/BepInEx/BepInEx) pack for Megastore Simulator, preconfigured and ready to use on Windows and Linux, including SteamOS and Steam Deck handhelds!
 
 In particular, this pack comes with:
 
@@ -18,7 +18,7 @@ In particular, this pack comes with:
 
 > [!TIP]
 >
-> **The game folder is the folder containing the game's executable (e.g. `Megastore Simulator Prologue.exe`).**
+> **The game folder is the folder containing the game's executable (e.g. `Megastore Simulator.exe`).**
 >
 > Steam users can find the game folder by right-clicking the game in their Steam library and selecting `Manage` > `Browse local files`.
 
@@ -40,11 +40,11 @@ For Steam Deck handhelds, switch to Desktop mode to follow the instructions. Onc
 
 > [!TIP]
 >
-> **The game folder is the folder containing the game's executable (e.g. `Megastore Simulator Prologue.exe`).**
+> **The game folder is the folder containing the game's executable (e.g. `Megastore Simulator.exe`).**
 >
 > Steam users can find the game folder by right-clicking the game in their Steam library and selecting `Manage` > `Browse local files`.
 
-1. [Download Tobey's BepInEx Pack for Megastore Simulator: Prologue](https://github.com/toebeann/BepInEx.MegastoreSimulator/releases/latest/download/Tobey.s.BepInEx.Pack.for.Megastore.Simulator.zip).
+1. [Download Tobey's BepInEx Pack for Megastore Simulator](https://github.com/toebeann/BepInEx.MegastoreSimulator/releases/latest/download/Tobey.s.BepInEx.Pack.for.Megastore.Simulator.zip).
 2. Make sure the game is not running.
 3. Extract the contents of the downloaded archive into the game folder. Replace any files if prompted.
 
@@ -55,9 +55,9 @@ For Steam Deck handhelds, switch to Desktop mode to follow the instructions. Onc
     **⚠️ _This list is used as a reference and is non-exhaustive, there will be other stuff, please don't delete anything!_**
 
     - _**`BepInEx`**_
-    - `Megastore Simulator Prologue_Data`
+    - `Megastore Simulator_Data`
     - _**`doorstop_config.ini`**_
-    - `Megastore Simulator Prologue.exe`
+    - `Megastore Simulator.exe`
     - _**`winhttp.dll`**_
 
         **⚠️ _If you are missing any of these files or folders, you are probably installing to the wrong place, and this pack will not work._**
