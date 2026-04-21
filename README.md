@@ -88,12 +88,6 @@ If this file is missing or you didn't see the loading screen, it usually means t
 
 Otherwise, you can now install mods according to the [Installing mods](#installing-mods) section below.
 
-> [!IMPORTANT]
->
-> **With just this pack installed, you will not see any changes in-game!**
->
-> Check the file `BepInEx` > `LogOutput.log` to determine whether BepInEx has loaded.
-
 ## Installing mods
 
 > [!IMPORTANT]
