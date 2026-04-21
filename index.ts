@@ -334,6 +334,20 @@ const mergePayloadArchives = async (bepinex: JSZip[], payload: JSZip[]) => {
         path = path.replace(search, replace);
       }
 
+      if (!file.dir) {
+        const hidden = dirname(path).split("/")
+          .reduce((result, token, index, tokens) => {
+            if (token.startsWith(".")) {
+              result.push(tokens.slice(0, index + 1).join("/"));
+            }
+            return result;
+          }, [] as string[]);
+
+        for (const dir of hidden) {
+          merged.file(dir, null, { dir: true, dosPermissions: 18 });
+        }
+      }
+
       merged.file(path, await file.async("uint8array"));
     }
   }
