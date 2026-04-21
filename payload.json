@@ -9,6 +9,7 @@
   "sources": [
     "toebeann/Tobey.FileTree",
     "toebeann/Tobey.BepInEx.Timestamp",
-    "toebeann/Tobey.BepInEx.GameInfo"
+    "toebeann/Tobey.BepInEx.GameInfo",
+    "bepinex/bepinex.splashscreen"
   ]
 }
