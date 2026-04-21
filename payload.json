@@ -11,5 +11,12 @@
     "toebeann/Tobey.BepInEx.Timestamp",
     "toebeann/Tobey.BepInEx.GameInfo",
     "bepinex/bepinex.splashscreen"
-  ]
+  ],
+  "rename": {
+    "^BepInEx/core/Tobey": "BepInEx/core/.tobey.bepinex.pack",
+    "^BepInEx/patchers/Tobey": "BepInEx/patchers/.tobey.bepinex.pack",
+    "^BepInEx/plugins/Tobey": "BepInEx/plugins/.tobey.bepinex.pack",
+    "/File Tree/": "/",
+    "^BepInEx/patchers/BepInEx.SplashScreen": "BepInEx/patchers/.tobey.bepinex.pack/BepInEx.SplashScreen"
+  }
 }
